@@ -1,5 +1,7 @@
 # nilai-ujikom-smk-almamun-cibugel-2018
 
-Nilai Uji kompetensi 
+Nilai Uji kompetensi siswa
 
-SMK AL-MA'MUN CIBUGEL 2018
+SMK AL-MA'MUN CIBUGEL 
+
+Tahun: 2018
